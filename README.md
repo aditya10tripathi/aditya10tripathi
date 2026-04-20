@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Kumar Tripathi
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=2nd+Year+CSE+Student;Aspiring+Web+Developer;DSA+Enthusiast+(Java);2nd+Year+CSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;DSA+Enthusiast+(Java);2nd+Year+CSE+Student" alt="Typing SVG" />
 </p>
 
 ---
